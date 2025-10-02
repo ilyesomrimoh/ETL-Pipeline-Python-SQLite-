@@ -34,7 +34,7 @@ This is a small ETL (Extract, Transform, Load) project that takes COVID-19 data 
    ```
    mini_etl_project/
    ├─ data/
-   │   └─ covid_19_clean_complete.csv
+   │   └─ covid_19_data.csv
    ├─ scripts/
    │   ├─ extract.py
    │   ├─ transform.py
